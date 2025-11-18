@@ -14,10 +14,9 @@ Profile: Upload and manage profile photos
  Tech Stack
 | Layer        | Technology |
 |--------------|------------|
-| Frontend     | React, Vite, TailwindCSS |
+| Frontend     | React, Vite, css|
 | Backend      | NestJS, TypeScript |
 | Database     | PostgreSQL (via Prisma/TypeORM) |
 | Auth         | JWT, bcrypt |
-| Deployment   | Docker, Vercel/Render |
+| Deployment   | Vercel/Render |
 
- Project Structure
